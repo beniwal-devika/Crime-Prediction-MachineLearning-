@@ -1,2 +1,2 @@
 # Crime-Prediction-MachineLearning-
-Operate and automate management of very large distributed On-Prem and Cloud based systems using CI/CD pipelines tools and automation.
+Developed predictive models for crime to help the Bureau and police departments around the country to use machine learning to better focus their resources on locations where crimes are more likely to be committed.
